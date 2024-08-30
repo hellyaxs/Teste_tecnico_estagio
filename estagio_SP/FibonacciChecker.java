@@ -1,3 +1,5 @@
+package estagio_SP;
+
 import java.util.Scanner;
 
 public class FibonacciChecker {
